@@ -93,7 +93,7 @@
 }
 .card {
   height: 35vh;
-  background-image: url(imgs/v.jpg);
+  background-image: url(/imgs/v.jpg);
   background-size: cover;
   position: relative;
   display: flex;

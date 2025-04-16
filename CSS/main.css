@@ -47,7 +47,7 @@ body {
   background-color: #f1f1f1;
 }
 .background-image {
-  background-image: url(imgs/background\ 3.jpg);
+  background-image: url(/imgs/background\ 3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
