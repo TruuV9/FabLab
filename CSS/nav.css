@@ -12,7 +12,7 @@ body {
   font-family: poppins;
   scroll-behavior: smooth;
 }
-.ulNav{
+.ulNav {
   list-style: none;
   display: flex;
   justify-content: center;
@@ -91,11 +91,11 @@ nav {
   width: 100%;
 }
 /* reigster btns*/
-.reg-con{
+.reg-con {
   margin-right: 10%;
   display: flex;
   gap: 20px;
-} 
+}
 .reg-btn {
   padding: 0.5em 1.1em;
   border: none;
